@@ -18,6 +18,8 @@
 
 ## Check-List
 * iOS New Feature Checklist
+* [iPhone 
+resolution](https://qiita.com/tomohisaota/items/f8857d01f328e34fb551)
 
 ## Xcode env
 ### Shortcut
