@@ -9,7 +9,6 @@
 6. ServiceStation
 7. [Chrome](https://www.google.co.jp/chrome/?brand=AGAK&gclid=CjwKCAiA24SPBhB0EiwAjBgkhiXZh863fMju_CqqkkS3di-DvHSkZqgRdEj-0ut9ny8NWT5_Te27hxoCQigQAvD_BwE&gclsrc=aw.ds)
     * [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=ja)
-    * [screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 8. Xcode
  ※ [archive](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
 9. [Android Studio](https://developer.android.com/studio)
