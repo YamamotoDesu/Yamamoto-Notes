@@ -22,3 +22,4 @@
 ### Shortcut
 
 ### Snippets
+https://gist.github.com/YamamotoDesu
