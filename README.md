@@ -12,3 +12,5 @@
  ※ [archive](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
 9. [Android Studio](https://developer.android.com/studio)
   ※ [archive](https://developer.android.com/studio/archive?hl=ja)
+
+## Check-List
