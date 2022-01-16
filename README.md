@@ -1,12 +1,6 @@
 # Yamamoto-Notes
-## Tool List
+## [Tool List](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Tool-List)
 ## Bookmark
-*  [Check-CSS-Supported-Browser](https://caniuse.com/)
-*  [Check-Color-Contrast](https://color.adobe.com/ja/create/color-contrast-analyzer)
-*  [Dummy-Api-And-Server](https://httpbin.org/)
-*  [Create-UIColor](https://www.uicolor.io/)
-*  [Check-Other-Apps](https://mobbin.design/browse/ios/apps)
-
 ## Check-List
 * iOS New Feature Checklist
 * [iPhone Device 
