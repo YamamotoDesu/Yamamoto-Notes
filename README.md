@@ -1,4 +1,4 @@
-# Must-have-tools-And-Memo
+# Yamamoto-Notes
 
 ## Tool List
 * [iTerm](https://iterm2.com/)
