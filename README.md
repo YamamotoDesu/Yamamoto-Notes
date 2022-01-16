@@ -37,7 +37,7 @@ resolution](https://qiita.com/tomohisaota/items/f8857d01f328e34fb551)
 https://gist.github.com/YamamotoDesu
 
 ## iOS Development
-* ### [ScrollableView vs UICollectionView vs UITableView](https://github.com/jrasmusson/ios-professional-course/tree/main/Bankey/5-Scrollable-ViewControllers)
+* [ScrollableView vs UICollectionView vs UITableView](https://github.com/jrasmusson/ios-professional-course/tree/main/Bankey/5-Scrollable-ViewControllers)
 * ScrollableView(Common)
   *  Pros
      - Makes anything scrollable
