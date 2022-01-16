@@ -39,7 +39,7 @@ https://gist.github.com/YamamotoDesu
 ## iOS Development
 * ScrollView   
   [ScrollableView vs UICollectionView vs UITableView](https://github.com/jrasmusson/ios-professional-course/tree/main/Bankey/5-Scrollable-ViewControllers)
-  * ScrollableView
+  * ScrollableView(Common)
     * Pros : 
        - Makes anything scrollable
        - Minimalist
@@ -51,7 +51,7 @@ https://gist.github.com/YamamotoDesu
          (i.e. pull to reload)
        - Auto Layout more complext
    
-   * UICollectionView
+   * UICollectionView(Rare)
      * Pros : 
        - Customizable layouts
        - Multi-column scrollable
@@ -61,7 +61,7 @@ https://gist.github.com/YamamotoDesu
         - More complex
         - Often overkill
       
-   * UITableView
+   * UITableView(All the time)
      * Pros : 
        - Heighly performant
          (reuseIdentifiers)
