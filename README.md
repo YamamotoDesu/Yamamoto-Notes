@@ -37,37 +37,65 @@ resolution](https://qiita.com/tomohisaota/items/f8857d01f328e34fb551)
 https://gist.github.com/YamamotoDesu
 
 ## iOS Development
-* ScrollView   
-  [ScrollableView vs UICollectionView vs UITableView](https://github.com/jrasmusson/ios-professional-course/tree/main/Bankey/5-Scrollable-ViewControllers)
-  * ScrollableView(Common)
-    * Pros : 
-       - Makes anything scrollable
-       - Minimalist
-       - Full controll
-       - Good for long pages
-    * Cons :   
-       - Can't easily reload
-       - No built in affordances
-         (i.e. pull to reload)
-       - Auto Layout more complext
-   
-   * UICollectionView(Rare)
-     * Pros : 
-       - Customizable layouts
-       - Multi-column scrollable
-       - Can dynamically change layout
-       - Good for photos in a grid
-     * Cons :   
-        - More complex
-        - Often overkill
+* ### [ScrollableView vs UICollectionView vs UITableView](https://github.com/jrasmusson/ios-professional-course/tree/main/Bankey/5-Scrollable-ViewControllers)
+  * ScrollableView(Common)  
+     <details open>
+         <summary>Pros</summary> 
+            <ol type="1">
+               <li>Makes anything scrollable</li>
+               <li>Minimalist</li>
+               <li>Full controll</li>
+               <li>Good for long pages</li>
+            </ol>
+      </details>
+     <details>
+         <summary>Cons</summary> 
+            <ol type="1">
+               <li>Can't easily reload</li>
+               <li>No built in affordances   
+                  (i.e. pull to reload)
+               </li>
+               <li>Full controll</li>
+               <li>Auto Layout more complext</li>
+            </ol>
+      </details>
+
+  * UICollectionView(Rare)
+     <details open>
+         <summary>Pros</summary> 
+            <ol type="1">
+               <li>Customizable layoutse</li>
+               <li>Multi-column scrollable</li>
+               <li>Can dynamically change layout</li>
+               <li>Good for photos in a grid</li>
+            </ol>
+     </details>
+     <details>
+         <summary>Cons</summary> 
+            <ol type="1">
+               <li>More complex</li>
+               <li>Often overkill</li>
+            </ol>
+      </details>
       
    * UITableView(All the time)
-     * Pros : 
-       - Heighly performant
-         (reuseIdentifiers)
-       - Many affordances built in
-         (header, footer, sections)
-       - Perfext for single column lists
-     * Cons :   
-        - Hard to do complext non-single column layouts 
+     <details open>
+         <summary>Pros</summary> 
+            <ol type="1">
+               <li>Heighly performant
+                   (reuseIdentifiers)
+               </li>
+               <li>Many affordances built in
+                   (header, footer, sections)</li>
+               <li>Perfext for single column lists</li>
+            </ol>
+     </details>
+     <details>
+         <summary>Cons</summary> 
+            <ol type="1">
+               <li>Hard to do complext non-single column layouts </li>
+            </ol>
+      </details>   
+      
+  
   
