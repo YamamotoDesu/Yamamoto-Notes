@@ -48,7 +48,7 @@ https://gist.github.com/YamamotoDesu
                <li>Good for long pages</li>
             </ol>
       </details>
-     <details>
+     <details open>
          <summary>Cons</summary> 
             <ol type="1">
                <li>Can't easily reload</li>
@@ -70,7 +70,7 @@ https://gist.github.com/YamamotoDesu
                <li>Good for photos in a grid</li>
             </ol>
      </details>
-     <details>
+     <details open>
          <summary>Cons</summary> 
             <ol type="1">
                <li>More complex</li>
@@ -90,7 +90,7 @@ https://gist.github.com/YamamotoDesu
                <li>Perfext for single column lists</li>
             </ol>
      </details>
-     <details>
+     <details open>
          <summary>Cons</summary> 
             <ol type="1">
                <li>Hard to do complext non-single column layouts </li>
