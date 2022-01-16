@@ -30,7 +30,7 @@
 resolution](https://qiita.com/tomohisaota/items/f8857d01f328e34fb551)
 * [Android Device resolution](https://en.wikipedia.org/wiki/Comparison_of_high-definition_smartphone_displays)
 
-## Xcode env
+## Xcode Env
 *  Shortcut
 
 *  Snippets
