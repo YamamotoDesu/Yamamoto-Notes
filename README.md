@@ -1,22 +1,5 @@
 # Yamamoto-Notes
-
 ## Tool List
-* [iTerm](https://iterm2.com/)
-* [Oh My Zsh](https://ohmyz.sh/)
-* [Gifox](https://gifox.io/) 
-* Skitch
-* Soucetree
-* ServiceStation
-* [Chrome](https://www.google.co.jp/chrome/?brand=AGAK&gclid=CjwKCAiA24SPBhB0EiwAjBgkhiXZh863fMju_CqqkkS3di-DvHSkZqgRdEj-0ut9ny8NWT5_Te27hxoCQigQAvD_BwE&gclsrc=aw.ds)
-    * [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=ja)
-* Xcode
- ※ [archive](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
-* [Android Studio](https://developer.android.com/studio)
-  ※ [archive](https://developer.android.com/studio/archive?hl=ja)
-* Alfred
-* Mockoon
-* [SF Symbols](https://developer.apple.com/sf-symbols/)
-
 ## Bookmark
 *  [Check-CSS-Supported-Browser](https://caniuse.com/)
 *  [Check-Color-Contrast](https://color.adobe.com/ja/create/color-contrast-analyzer)
