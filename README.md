@@ -4,5 +4,6 @@
 3. [Release Life Cycle](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Release-Life-Cycle)
 4. [Xcode](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Xcode)
 5. [iOS Development](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/iOS-Development)
+6. [TroubleShooting](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Trouble-Shooting)
   
   
