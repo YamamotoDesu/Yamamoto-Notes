@@ -6,6 +6,6 @@
 4. [Xcode](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Xcode)
 5. [iOS Development](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/iOS-Development)
 6. [TroubleShooting](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Trouble-Shooting)
-
+7. [Deliverables](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Deliverables)
   
   
