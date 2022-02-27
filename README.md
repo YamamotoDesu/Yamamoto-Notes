@@ -8,5 +8,5 @@
 6. [TroubleShooting](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Trouble-Shooting)
 7. [Deliverables](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Deliverables)
 8. [Device Resolution](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Device-Resolution)
-  
+9. [Android Development](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Android-Development)
   
