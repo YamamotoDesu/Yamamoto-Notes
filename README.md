@@ -10,3 +10,4 @@
 8. [Device Resolution](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Device-Resolution)
 9. [Android Development](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Android-Development)
 10. [Android Studio](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Android-Studio)
+11. [Mac](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/mac)
