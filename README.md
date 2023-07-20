@@ -1,5 +1,4 @@
 # Yamamoto-Notes
-* [Career Profile](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Career-Profile)
 1. [Tool List](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Tool-List)
 2. [Bookmark](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Bookmarks)
 3. [Git Commands](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Git-Commands)
