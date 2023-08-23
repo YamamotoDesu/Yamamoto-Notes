@@ -12,3 +12,4 @@
 11. [Mac](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/mac)
 12. [Awesome iOS Repos](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/awesome-ios-repo)
 13. [VSCode](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/VSCode)
+14. [Flutter](https://github.com/YamamotoDesu/Yamamoto-Notes/wiki/Flutter)
